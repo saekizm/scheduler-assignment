@@ -5,11 +5,8 @@ This is the repo for the C starter files.  Read the details below carefully.  No
 
 
 ## What you need to do
-You should follow the instructions below:
-1. fork (do not clone) this repository.  Once you have forked it, make your own repository private and add both me (Graham Healy - @healygr) and Wandri Jooste (@joostew2) as "maintainer".
-2. add all your source files to the `src` directory.
-3. Add your files relating to the manual/help command to the `manual` directory.
-4. Your `makefile` should build the binary and place it in the `bin` directory.
+fork (do not clone) this repository.  Once you have forked it, make your own repository private and add both me (Graham Healy - @healygr) and Wandri Jooste (@joostew2) as "maintainer". If this is a pair project, add the other team member as a maintainer. 
+
 
 
 ## Misc 
